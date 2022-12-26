@@ -1,0 +1,49 @@
+.wrapper{
+    max-width: 600px;
+    margin: 0 auto;
+    color: #666;
+}
+.header {
+    
+    font-size: 24px;
+    width: 100%;
+    margin: 1rem 0 0;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse:collapse;
+    text-align: center;
+}
+
+td.youbi{
+    border: 2px solid #ddd;
+    padding: 10px;
+    background-color:antiquewhite;
+}
+
+td {
+    border: 2px solid #ddd;
+    padding: 10px;
+}
+
+td:first-child {
+    color: red;
+}
+
+td:last-child {
+    color: royalblue;
+}
+
+td.gray {
+    color: #ccc;
+}
+
+td.today {
+    background-color: #D65E72;
+    color: #fff;
+}
